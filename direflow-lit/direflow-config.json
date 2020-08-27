@@ -1,0 +1,11 @@
+{
+  "build": {
+    "componentPath": "./direflow-components",
+    "emitSourceMap": true,
+    "filename":"direflow-lit-example.js",
+    "emitIndexHTML": true,
+    "emitAll": true
+  }
+}
+
+
